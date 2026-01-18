@@ -1,4 +1,4 @@
-.....<p align="center">
+......<p align="center">
   <img src="usecvislib_logotext.png" alt="USecVisLib" width="400">
 </p>
 
